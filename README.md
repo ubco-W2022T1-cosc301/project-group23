@@ -12,7 +12,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-Our dataset consists of responses to the 5-factor personality test (AKA Big 5 personality test). Developed in the 1980s, the 5-factor personality test
+Our dataset consists of responses to the 5-factor personality test (AKA Big 5 personality test). The 5-Factor Personality test was developed in the 1980s after factor analysis revealed certain words/phrases used to describe personality tend to 'hang together' 
 
 ## Describe your dataset in about 150-200 words
 
