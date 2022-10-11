@@ -8,7 +8,10 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-Our dataset consists of responses to the 5-factor personality test (AKA Big 5 personality test). The 5-Factor Personality test was developed in the 1980s after factor analysis revealed certain words/phrases used to describe personality tend to 'hang together' 
+Our dataset consists of responses to the 5-factor personality test (AKA Big 5 personality test). The 5-Factor Personality test was developed in the 1980s after factor analysis revealed certain words/phrases used to describe personality tend to 'hang together' (i.e., there are 5 personality factors) and can be grouped to describe broad personality traits. The five factors are: openness to experience, conscientiousness, extraversion, agreeableness, and neuroticism —- the acronym OCEAN is used to refer to all 5 traits. Within the OCEAN traits, each global factor (i.e., O, C, E, A, and N) is also associated with other personality characteristics (e.g., extraversion is associated with assertiveness). The current dataset contains 19719 survey responses to 50 questions relating to the OCEAN traits (10 per trait) as well as demographic info (i.e., race, age, gender, native language, and handedness). The survey was scored using a 5-point scale with response options 1=Disagree, 3=Neutral, 5=Agree. The data was collected through an interactive online personality test.
+
+
+
 
 ## Describe your dataset in about 150-200 words
 
@@ -18,11 +21,9 @@ Our dataset consists of responses to the 5-factor personality test (AKA Big 5 pe
 
 ## Team Members
 
-- Mel Jensen: I'm a fourth year electrical engineering student.
-- Ella Serber: one sentence about you!
-**Please remember to update this section**
 
-- Mel Jensen: one sentence about you!
+**Please remember to update this section**
+- Mel Jensen: I'm a fourth year electrical engineering student.
 - Ella Serber: I am a 4th year psychology major at UBCO
 - Minju Yu: one sentence about you!
 
@@ -45,9 +46,9 @@ Our dataset consists of responses to the 5-factor personality test (AKA Big 5 pe
 
 Notes from the Task 2 section of Milestone 2:
 
-    1. Our dataset consists of responses to the 5-factor personality test (AKA Big 5 personality test).  
+    1. Describe your dataset in 150-200 words  
 
-Consider the following questions to guid you in your expolartion:
+Consider the following questions to guide you in your exploration:
 
     -Who: Which company/agency/organization provided this data?
     -What: What is in your data?
