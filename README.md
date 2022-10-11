@@ -1,4 +1,4 @@
-# Group 23 - Analyizing the Big Five Factor Personality Test
+# Group 23 - Analyizing the Five Factor Personality Test
 
 ## Milestones
 
