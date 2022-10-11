@@ -25,7 +25,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 **Please remember to update this section**
 
 - Mel Jensen: one sentence about you!
-- Ella Serber: one sentence about you!
+- Ella Serber: I am a 4th year psychology major at UBCO
 - Minju Yu: one sentence about you!
 
 ## Images
@@ -47,7 +47,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 Notes from the Task 2 section of Milestone 2:
 
-    1. Describe your data set in about 150-200 words
+    1. Our dataset consists of responses to the 5-factor personality test (AKA Big 5 personality test).  
 
 Consider the following questions to guid you in your expolartion:
 
