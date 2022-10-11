@@ -41,6 +41,8 @@ Our dataset consists of responses to the 5-factor personality test (AKA Big 5 pe
 
 {Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
 
+[Link to data](https://www.kaggle.com/datasets/lucasgreenwell/ocean-five-factor-personality-test-responses?select=codebook.txt)
+
 
 
 
