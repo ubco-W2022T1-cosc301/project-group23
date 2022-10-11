@@ -8,7 +8,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-{Add your stuff here} Notes from the canvas page about what kind of stuff to put here are at the bottom.
+Our dataset consists of responses to the 5-factor personality test (AKA Big 5 personality test). Developed in the 1980s, the 5-factor personality test
 
 ## Describe your dataset in about 150-200 words
 
