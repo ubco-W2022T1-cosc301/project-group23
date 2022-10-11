@@ -1,8 +1,4 @@
-# Group 23 - {Short snappy Title of your project}
-
-**Please remember to update this section**
-
-- Your title can change over time.
+# Group 23 - Analyizing the Big Five Factor Personality Test
 
 ## Milestones
 
@@ -22,9 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Team Members
 
-**Please remember to update this section**
-
-- Mel Jensen: one sentence about you!
+- Mel Jensen: I'm a fourth year electrical engineering student.
 - Ella Serber: one sentence about you!
 - Minju Yu: one sentence about you!
 
