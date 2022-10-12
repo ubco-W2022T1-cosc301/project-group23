@@ -1,4 +1,4 @@
-# Group 23 - Analyizing the Five Factor Personality Test
+# Group 23 - Analyzing the Five Factor Personality Test
 
 ## Milestones
 
@@ -20,8 +20,8 @@ Our dataset consists of responses to the 5-factor personality test (AKA Big 5 pe
 
 
 
-- Mel Jensen: I'm a fourth year electrical engineering student at UBCO
-- Ella Serber: I am a 4th year psychology major at UBCO
+- Mel Jensen: I am a fourth year electrical engineering student at UBCO
+- Ella Serber: I am a fourth year psychology major at UBCO
 - Minju Yu: I am a fourth year student majoring in psychology at UBCO
 
 ## Images
