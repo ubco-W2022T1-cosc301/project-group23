@@ -4,10 +4,24 @@ import pandas as pd
 import numpy as np
 
 def reverseScoring(df, high, cols):
+    '''
+    A function to reverse score responses on a scale. Takes the value and subtracts it from 1 + the maximum score value. 
+    
+    Arguments:
+    df - a dataframe (required)
+    high - a number representing 1 + the highest possible response value (required)
+    cols - the columns to be used (required)
+    '''
     df[cols] = high - df[cols]
     return df
 
 def load_and_process(path_to_csv):
+    '''
+    A function to load, process, reverse score, and create factor total score columns.
+    
+    Arguments:
+    path_to_csv - a path to a .csv file (required)
+    '''
     #Method chain 1
     dat_2 = (pd.read_csv("../data/raw/data.csv", sep='\t')
     .copy().drop(['engnat','hand','source', 'country', 'race', 'age'], axis=1)
