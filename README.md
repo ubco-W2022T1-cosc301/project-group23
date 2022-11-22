@@ -16,6 +16,16 @@ Our interests in the data relate to associations between the broad traits (i.e.,
 
 Our dataset consists of responses to the 5-factor personality test (AKA Big 5 personality test). The 5-Factor Personality test was developed in the 1980s after factor analysis revealed certain words/phrases used to describe personality tend to 'hang together' (i.e., there are 5 personality factors) and can be grouped to describe broad personality traits. The five factors are: openness to experience, conscientiousness, extraversion, agreeableness, and neuroticism —- the acronym OCEAN is used to refer to all 5 traits. Within the OCEAN traits, each global factor (i.e., O, C, E, A, and N) is also associated with other personality characteristics (e.g., extraversion is associated with assertiveness). The current dataset contains 19719 survey responses to 50 questions relating to the OCEAN traits (10 per trait) as well as demographic info (i.e., race, age, gender, native language, and handedness). The survey was scored using a 5-point scale with response options 1=Disagree, 3=Neutral, 5=Agree. The data was collected through an interactive online personality test.
 
+The traits are dimensional, meaning they are on a continuum, and scoring high vs. low on a certain factor is indicative of different personality traits.
+
+The five factors and some of their associated high and low traits are as follows: 
+Openness — with creativity, trying new things, and thinking about abstract concepts at the high end and disliking change, being unimaginative, and resisting new ideas at the low end
+Conscientiousness — with paying attention to detail and enjoying schedules and order at the high end, while disliking schedules and procrastination are at the low end
+Extraversion — with enjoying being the centre of attention and finding it easy and enjoyable to make friends at the high end, and preferring solitude, difficulty starting conversation, and thinking carefully before speaking at the low end 
+Agreeableness — with caring about others, enjoying helping others, and interest in other people at the high end, while manipulating others and not caring about others’ feelings is at the low end
+Neuroticism — with emotional stability, dealing well with stress, and rarely feeling depressed or sad at the high end and getting upset or anxious easily, experiencing frequent mood shifts, and lacking resilience are at the low end 
+
+
 ## Team Members
 
 
