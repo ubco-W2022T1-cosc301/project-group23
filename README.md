@@ -19,10 +19,15 @@ Our dataset consists of responses to the 5-factor personality test (AKA Big 5 pe
 The traits are dimensional, meaning they are on a continuum, and scoring high vs. low on a certain factor is indicative of different personality traits.
 
 The five factors and some of their associated high and low traits are as follows: 
+
 Openness — with creativity, trying new things, and thinking about abstract concepts at the high end and disliking change, being unimaginative, and resisting new ideas at the low end
+
 Conscientiousness — with paying attention to detail and enjoying schedules and order at the high end, while disliking schedules and procrastination are at the low end
+
 Extraversion — with enjoying being the centre of attention and finding it easy and enjoyable to make friends at the high end, and preferring solitude, difficulty starting conversation, and thinking carefully before speaking at the low end 
+
 Agreeableness — with caring about others, enjoying helping others, and interest in other people at the high end, while manipulating others and not caring about others’ feelings is at the low end
+
 Neuroticism — with emotional stability, dealing well with stress, and rarely feeling depressed or sad at the high end and getting upset or anxious easily, experiencing frequent mood shifts, and lacking resilience are at the low end 
 
 
