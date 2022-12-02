@@ -8,6 +8,8 @@
 
 ## **Hypothesis**: Based on extant research, on average, females will show higher scores than men on Extraversion, and Agreeableness, lower scores on Neuroticism, and there are will be no significant gender differences for Conscientiousness or Openness.
 
+You can fine the [full analysis notebook here](./notebooks/analysis2.ipynb)
+
 ![Barplot by gender](barbygender.png)
 
 ## **Figure 1**
