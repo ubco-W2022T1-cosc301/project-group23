@@ -46,8 +46,30 @@ Bar plot showing the mean factor scores for each of the 5 factors, separated by 
 Compared to Figure 2, this plot makes it easier to see the differences between factor scores for each gender. It is clear that Extraversion and Neuroticism have lower average scores, and Agreeableness and Openness have higher average scores, than the other factors for both genders. When comparing between genders, the error bars representing the confidence intervals can be helpful for determining whether the difference in group means is significant -- that is, if the error bars overlap with one another, it is likely that the difference between group means is not significant. For the current research, the only factor that has error bars close to overlapping is Conscientiousness. This is in line with the hypothesis that Conscientiousness would not show significant gender differences. The other proposed null relationship was between gender and Openness -- while this factor does appear to show gender differences, the magnitude is less than that of the other 3 factors (i.e., E, N, and A). Therefore, it appears that I have support for the hypothesis that there are gender differences for the Extraversion, Neuroticism, and Agreeableness factors. 
 <br><br><br><hr />
 
+# Question 3 - How do scores between all races differ on the five personality factors? Furthermore, is there a relationship between personality traits and race?
 
-# Question 3
+## **Hypothesis**:
+I hypothesized that a particular race group would show higher scores on the big five personality traits (extraversion, neuroticism, agreeableness, conscientiousness, openness) than other race group.
+<br>
+
+### You can find the [full analysis notebook here](./notebooks/analysis3.ipynb), including the code and data
+<br>
+
+![Barplot by Race](./images/Race%20Bar%20Plot1.png)
+## **Figure 1**
+This bar plot shows the mean factor scores for each of the five personality traits, separated by race. All races show higher scores on agreeableness and openness and lower scores on extraversion and neuroticism. Scores on conscientiousness are in the middle for all races.
+<br><br><br><hr />
+
+![Barplot by Race](./images/Race%20Bar%20Plot2.png)
+## **Figure 2**
+This plot shows Pearson's correlation coefficient among the five personality traits for each race. The darker colours represent a greater magnitude of correlation. All races show a weak positive correlation or no correlation among the five personality traits.
+<br><br><br><hr />
+
+![Correlation Plot by Race](./images/Race%20Correlation.png)
+## **Figure 3**
+The American Indian or Alaska Native shows the strongest correlation (r = .42) between Extraversion and Agreeableness and the weakest correlation (r = .10) between Neuroticism and Openness. Asian shows the strongest correlation (r = .35) between Extraversion and Agreeableness and the weakest correlation (r = .11) between Neuroticism and Openness. Black or African American shows the strongest correlation (r = .34) between Agreeableness and Conscientiousness and the weakest correlation (r = .049) between Extraversion and Conscientiousness. Native Hawaiian or Other Pacific Islander shows the strongest correlation (r = .33) between Agreeableness and Conscientiousness and the weakest correlation (r = .026) between Neuroticism and Agreeableness. White shows the strongest correlation (r = .34) between Extraversion and Agreeableness and the weakest correlation (r = .059) between Openness and Conscientiousness. No particular correlation between personality traits is strongest or weakest for all races.
+
+However, all races show a stronger correlation between Extraversion and Agreeableness compared to other correlations between personality traits. Moreover, all races show a weaker correlation between Neuroticism and Openness and between Conscientiousness and Openness compared to other correlations between personality traits.
 
 # Conclusion 
 
@@ -62,3 +84,6 @@ Compared to Figure 2, this plot makes it easier to see the differences between f
 ## Question 1
 ## Question 2 
 ## Question 3
+All races showed higher scores on agreeableness and openness and lower scores on extraversion and neuroticism. Also, scores on conscientiousness were in the middle for all races. All races scored similarly on each of the five personality traits. There was no particular correlation between personality traits that were strongest or weakest for all races. However, all races showed a stronger correlation between extraversion and agreeableness compared to other correlations between personality traits. Also, all races showed a weaker correlation between neuroticism and openness and between conscientiousness and openness compared to other correlations between personality traits. These results indicated no differences in the big five personality traits among races, which did not support the hypothesis.
+
+In conclusion, there was no significant difference in scores between all races on the five personality factors. Furthermore, there was no significant relationship between personality traits and race.
