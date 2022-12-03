@@ -15,7 +15,7 @@
 ### You can find the [full analysis notebook here](./notebooks/analysis2.ipynb), including the code and data
 <br>
 
-![Barplot by gender](./images/bagrbygender.png)
+![Barplot by gender](./images/barbygender.png)
 
 ## **Figure 1**
 
