@@ -100,17 +100,6 @@ However, all races show a stronger correlation between Extraversion and Agreeabl
 
 # Conclusion 
 
-### Stuff in brackets is notes for you guys to read, not part of the paragraph. 
+Looking into the five personality factors and demographic information has shown that there are not many consistent associations between the personality factors and demographics. Every individual scores differently on the 5 factors regardless of their age, sex, or race. The analysis revealed that when looking at the age groups and factor scores, the average factor scores of each age group were similar to each other. When looking at the factors and gender it was shown that, on average, males showed higher scores on Neuroticism and Openness whereas females showed higher scores on Extraversion, Agreeableness, and Conscientiousness -- however, there is lots of variability within the sample which makes it difficult to draw conclusions. Finally, while looking to see if there was a link between race and factor scores, it could be seen that _________.
 
-### Looking into the five main personality traits versus different factors has shown that (I’m not quite sure if there is a summation as I haven’t in detailed checked your guy's stuff, but I was thinking something along the lines of) there are not many links between these factors and the different traits. Every individual person scores differently on OCEAN (fill in the full names of these things later) no matter their age, sex, or race. (Not sure if we really need to mention the skewed data here, if not replace “It is important … it can still” with “This can”) It is important to remember that much of this data was skewed by a large majority of the participants being young, white females, but it can still be seen by looking at the age groups versus personality scores and seeing that the average scores of each group were similar to each other. When looking at the traits split between male and female it was shown that ______. Finally, while looking to see if there was a link between race and personality traits it could be seen that _________.
-
-### Another option would start with...
-
-###  Looking into the five main personality traits versus different factors has shown that there are not many differences on personality traits with ____, but there are when looking at ____...
-
-## Question 1
-## Question 2 
-## Question 3
-All races showed higher scores on agreeableness and openness and lower scores on extraversion and neuroticism. Also, scores on conscientiousness were in the middle for all races. All races scored similarly on each of the five personality traits. There was no particular correlation between personality traits that were strongest or weakest for all races. However, all races showed a stronger correlation between extraversion and agreeableness compared to other correlations between personality traits. Also, all races showed a weaker correlation between neuroticism and openness and between conscientiousness and openness compared to other correlations between personality traits. These results indicated no differences in the big five personality traits among races, which did not support the hypothesis.
-
-In conclusion, there was no significant difference in scores between all races on the five personality factors. Furthermore, there was no significant relationship between personality traits and race.
+It is important to keep in mind that much of this data was skewed by a large majority of the sample being young, white, and female. 
