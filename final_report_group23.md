@@ -14,6 +14,20 @@ During the exploratory data analysis phase of the project, the data was manipula
 
 # Question 1 - How do the 5 different personality factors change over different age groups?
 
+The research question asked was if there was a link between age groups and their main personality factors. This interest came from wanting to see if different parenting styles that have been common during the last one hundred years could affect how a person behaves. Before looking at the data too closely it was important to note that there was not an even spread of information among the ages. The vast majority of people that participated in this survey fell between the ages of 13-30 years old, and very few individuals over the age of 70 took part. This can be seen on input line 11 of the [notebook](./notbooks/analysis1.ipynb). Keeping this fact in mind is important while moving forward to view the data.
+After some analysis, it could be seen that the average scores of the personality traits were similar when compared to other age groups. 
+
+![Age v Traits Line Plot](./images/Age Group vs Traits Line.png)
+
+The different scores had similar trends, mostly increasing slightly with age before dropping after the 50-59 age group. The difference in scores was a fourteen point difference between the age group 40-49 and 80-89 on the Openness factor, but since the age group 80-89 only had one data point and can be considered an anomaly, and therefore be ignored for this step. Excluding the group 80-89 the largest score difference is ten points between 60-69 and 90-100 on Neuroticism, which is only a quarter of the full forty point difference between maximum and minimum scores.
+While the largest differences in average scores were for the Openness or Neuroticism traits, the traits with the bulk of scores spread out the most the Conscientiousness and Neuroticism factors. This can be seen by viewing a box plot as shown here:
+
+![Age v Traits Box Plot](./images/Age Group vs Traits Box Plot.png)
+
+This shows that there was the most real difference between ages in these factors. While there was a less significant difference among the Openness, Extroversion, and Agreeableness traits.
+Overall, these data visualizations show that there is not a significant difference between people in different age groups and the main five personality factors. This data would be easier to analyze if there was an even spread of data over different age groups. A second question that would be interesting to investigate with data like this would be to see if these traits follow the same trends as shown in this analysis for an individual person throughout their life. This question would require years of data for many different people, however, so is not possible to answer with just this data.
+
+
 # Question 2 - How do scores between males and females differ on the 5 personality factors?
 ## **Hypothesis**: Based on extant research, on average, females will show higher scores than men on Extraversion, and Agreeableness, lower scores on Neuroticism, and there are will be no significant gender differences for Conscientiousness or Openness.
 <br>
