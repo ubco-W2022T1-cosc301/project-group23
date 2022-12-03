@@ -1,8 +1,14 @@
-# Intro
+# Introduction
 
-### Ella or Min are you able to do the intro as you are both a bit more into the pyscology stuff?
+Our dataset consists of 19719 responses to the 5-factor personality test (AKA Big 5 personality test). The 5-Factor Personality test was developed in the 1980s after factor analysis revealed certain words/phrases used to describe personality tend to 'hang together' (i.e., there are 5 personality factors) and can be grouped to describe broad personality traits. The five factors are: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism. The factors are dimensional, meaning they are on a continuum, and scoring high vs. low on a certain factor is indicative of different personality traits. The survey was scored using a 5-point scale with response options 1=Disagree, 3=Neutral, 5=Agree.  
 
-# EDA
+Our interests in the data relate to associations between demographic information and personality factors. In general, we are interested in psychology and personality theory and wanted to explore the potential relationships among demographic information and personality factors. 
+<br>
+<br>
+<br>
+
+
+# Exploratory Data Analysis (EDA)
 
 During the exploratory data analysis phase of the project, the data was manipulated in different ways for each question because it was important for the data to reflect what was necessary to answer the specific research questions. However, there were a few main steps that were common among all group members. For starters, each member looked at the size of the overall dataset as well as what was included in this dataset, such as the column names, data types, and outliers/missing data. While looking at this it was found that there were some unanswered questions throughout the data, such as a zero for the race or gender data, or a very large number for the age data. These data were removed before the team members removed the columns they would not be needing for their respective research questions. Once the data had been cleaned and unusable data had been filtered out, each member created visualizations from their data to try to get a sense of how to answer their research questions. While looking at differences in ages vs personality traits this is one of the graphs created. Insert a graph here. Looking into the difference between males and females regarding personality traits, this graph was used as a starting point. Insert graph here. And the final question about differences in race and personality traits leads to graphs like this one. Insert graph here.
 
