@@ -16,7 +16,12 @@
 # Conclusion 
 
 ### Stuff in brackets is notes for you guys to read, not part of the paragraph. 
+
 ### Looking into the five main personality traits versus different factors has shown that (I’m not quite sure if there is a summation as I haven’t in detailed checked your guy's stuff, but I was thinking something along the lines of) there are not many links between these factors and the different traits. Every individual person scores differently on OCEAN (fill in the full names of these things later) no matter their age, sex, or race. (Not sure if we really need to mention the skewed data here, if not replace “It is important … it can still” with “This can”) It is important to remember that much of this data was skewed by a large majority of the participants being young, white females, but it can still be seen by looking at the age groups versus personality scores and seeing that the average scores of each group were similar to each other. When looking at the traits split between male and female it was shown that ______. Finally, while looking to see if there was a link between race and personality traits it could be seen that _________.
+
+### Another option would start with...
+
+###  Looking into the five main personality traits versus different factors has shown that there are not many differences on personality traits with ____, but there are when looking at ____...
 
 ## Question 1
 ## Question 2 
