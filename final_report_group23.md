@@ -15,7 +15,7 @@
 ### You can find the [full analysis notebook here](./notebooks/analysis2.ipynb), including the code and data
 <br>
 
-![Barplot by gender](barbygender.png)
+![Barplot by gender](./images/barbygender.png)
 
 ## **Figure 1**
 
@@ -26,7 +26,7 @@ This plot is a good starting point to see roughly where there are gender differe
 Although not a part of the research questions, I found it interesting that the pattern of scores were similar in some ways (e.g., both genders showed higher scores on Agreeableness, Conscientiousness, and Openness than Extraversion and Neuroticism (emotional stability); both genders showed the highest scores for Agreeableness and Openness. However, males showed higher scores on Neuroticism than extraversion whereas females showed higher scores on Extraversion than Neuroticism (emotional stability) and males showed higher scores on Openness than Agreeableness whereas females showed higher scores on Agreeableness than Openness. 
 
 
-![Boxplot](boxplot.png)
+![Boxplot](./images/boxplot.png)
 
 ## **Figure 2**
 
@@ -37,7 +37,7 @@ In this plot, the lines for Extraversion and Neuroticism extend all the way to t
 This plot is useful because it gives a lot of information about the averages and distribution of the data. For instance, it can be used to compare median scores between genders which will be useful for answering the research question. 
 
 
-![Barplot](./project-group23/images/barplot.png)
+![Barplot](./images/barplot.png)
 ## **Figure 3**
 
 Bar plot showing the mean factor scores for each of the 5 factors, separated by gender. Error bars represent 98% confidence intervals. 
