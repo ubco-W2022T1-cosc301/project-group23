@@ -87,11 +87,13 @@ This bar plot shows the mean factor scores for each of the five personality trai
 
 ![Barplot by Race](./images/Race%20Bar%20Plot2.png)
 ## **Figure 2**
-This plot shows Pearson's correlation coefficient among the five personality traits for each race. The darker colours represent a greater magnitude of correlation. All races show a weak positive correlation or no correlation among the five personality traits.
+This bar plot shows the mean factor scores for each of the five personality traits, separated by race. Error bars represent 98% confidence intervals. Compared to Figure 1, this plot makes it easier to see the differences between factor scores for each race. All races score similarly on each of the five personality traits.
 <br><br><br><hr />
 
 ![Correlation Plot by Race](./images/Race%20Correlation.png)
 ## **Figure 3**
+This plot shows Pearson's correlation coefficient among the five personality traits for each race. The darker colours represent greater magnitude of correlation. All races show a weak positive correlation or no correlation among the five personality traits.
+
 The American Indian or Alaska Native shows the strongest correlation (r = .42) between Extraversion and Agreeableness and the weakest correlation (r = .10) between Neuroticism and Openness. Asian shows the strongest correlation (r = .35) between Extraversion and Agreeableness and the weakest correlation (r = .11) between Neuroticism and Openness. Black or African American shows the strongest correlation (r = .34) between Agreeableness and Conscientiousness and the weakest correlation (r = .049) between Extraversion and Conscientiousness. Native Hawaiian or Other Pacific Islander shows the strongest correlation (r = .33) between Agreeableness and Conscientiousness and the weakest correlation (r = .026) between Neuroticism and Agreeableness. White shows the strongest correlation (r = .34) between Extraversion and Agreeableness and the weakest correlation (r = .059) between Openness and Conscientiousness. No particular correlation between personality traits is strongest or weakest for all races.
 
 However, all races show a stronger correlation between Extraversion and Agreeableness compared to other correlations between personality traits. Moreover, all races show a weaker correlation between Neuroticism and Openness and between Conscientiousness and Openness compared to other correlations between personality traits.
