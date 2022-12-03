@@ -1,17 +1,15 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Mel's functions
 
 import pandas as pd
 import numpy as np
 
+# Method Chain 1: Clean Data
 
-# In[ ]:
+usableData = (df.drop(['engnat','hand','source', 'country', 'race', 'gender'], axis=1)
+              .copy()[(df['age'] <= 100) & (df!=0).all(axis=1)]
+              .copy().reset_index(drop=True))
 
+# Mel's functions
 
 def negative(df, cols):
     '''
@@ -29,10 +27,6 @@ def negative(df, cols):
     df4 = pd.concat(newFrame, axis=1)
     return df4
 
-
-# In[ ]:
-
-
 def sumcol(df, col1, col2, col3, col4, col5, col6, col7, col8, col9, col10):
     '''
     A funtion to sum the value of the total score of a trait
@@ -43,10 +37,6 @@ def sumcol(df, col1, col2, col3, col4, col5, col6, col7, col8, col9, col10):
     col1-col10 - The colums that need to be summed (required)
     '''
     return df[col1]+df[col2]+df[col3]+df[col4]+df[col5]+df[col6]+df[col7]+df[col8]+df[col9]+df[col10]
-
-
-# In[ ]:
-
 
 def agegroup(df, upper, lower):
     '''
@@ -61,10 +51,4 @@ def agegroup(df, upper, lower):
     df2 = df[df.age < upper]
     df2 = df2[df2.age >= lower]
     return df2
-
-
-# In[ ]:
-
-
-
 
