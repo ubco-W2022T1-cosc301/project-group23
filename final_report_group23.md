@@ -99,7 +99,7 @@ Compared to Figure 1, this plot makes it easier to see the differences between f
 # Question 3 - How do scores between all races differ on the five personality factors? Furthermore, is there a relationship between personality traits and race?
 
 ## **Hypothesis**:
-I hypothesized that a particular race group would show higher scores on the big five personality traits (extraversion, neuroticism, agreeableness, conscientiousness, openness) than another race group.
+A particular race group will show higher scores on the big five personality traits (extraversion, neuroticism, agreeableness, conscientiousness, openness) than other race groups.
 <br>
 
 ### You can find the [full analysis notebook here](./notebooks/analysis3.ipynb), including the code and data
