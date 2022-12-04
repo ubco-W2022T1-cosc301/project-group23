@@ -5,9 +5,26 @@ import numpy as np
 
 # Method Chain 1: Clean Data
 
-usableData = (df.drop(['engnat','hand','source', 'country', 'race', 'gender'], axis=1)
-              .copy()[(df['age'] <= 100) & (df!=0).all(axis=1)]
-              .copy().reset_index(drop=True))
+def load_and_process(file, keep, maxim, drop):
+    '''
+    A function to load the value and process it as needed.
+    Reads the file,
+    Drops unused columns,
+    Drops rows above maximum keep value,
+    Resets the index
+    
+    Arguments:
+    file - A file to read (required)
+    keep - A column that is being kept, but need to remove some rows (required)
+    maxim - The maximum value in the kept row (required)
+    drop - columns that need to be dropped (required)
+    '''
+    df = pd.read_csv(file, sep='\t')
+    df2 = (df.drop(drop, axis=1)
+           .copy()[(df[keep] <= maxim) & (df!=0).all(axis=1)]
+           .copy().reset_index(drop=True))
+    return df2
+
 
 # Mel's functions
 
